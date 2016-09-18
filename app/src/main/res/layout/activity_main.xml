@@ -10,7 +10,7 @@
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:id="@+id/profilePic"
-        android:src="@drawable/Doge"
+        android:src="@drawable/doge"
         android:background="@null"/>
 
     <EditText
