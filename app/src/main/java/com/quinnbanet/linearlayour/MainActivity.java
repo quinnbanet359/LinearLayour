@@ -34,7 +34,8 @@ public class MainActivity extends AppCompatActivity {
                 name.getText().toString(), city.getText().toString(),
                 state.getText().toString(), zip.getText().toString());
        Log.d("Submit",userInfo);
-        /*
+
+        /* couldn't get log to file to work, using log.d
         try {
             File file = new File("/sdcard/userInfoLogFile.txt");
 
